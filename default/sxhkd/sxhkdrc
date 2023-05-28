@@ -1,25 +1,3 @@
-# rofi keybinds
-super + r
-    rofi -show run
-
-@Super_L
-    rofi -show drun
-
-alt + F4
-    power
-
-# application keybinds
-super + w
-    alacritty -e tmux
-
-super + w
-    microsoft-edge-dev
-
-super + e
-    nautilus
-
-# scripts
-
 # special keys
 XF86AudioRaiseVolume
     changevolume up
