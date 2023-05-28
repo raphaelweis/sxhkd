@@ -21,7 +21,7 @@ super + e
 # scripts
 
 # special keys
-XFAudioRaiseVolume
+XF86AudioRaiseVolume
     changevolume up
 
 XF86AudioLowerVolume
